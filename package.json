@@ -1,0 +1,22 @@
+{
+  "name": "learning-css",
+  "version": "1.0.0",
+  "description": "this is css demo",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dmee/learning-css.git"
+  },
+  "keywords": [
+    "css"
+  ],
+  "author": "niki",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dmee/learning-css/issues"
+  },
+  "homepage": "https://github.com/dmee/learning-css#readme"
+}
